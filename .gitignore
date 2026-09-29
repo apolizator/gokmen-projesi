@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Grup sunumu (ikili dosya)
+*.pptx
+*.key
+
+# Tasinan eski ic depo
+.git-eski-ios/
